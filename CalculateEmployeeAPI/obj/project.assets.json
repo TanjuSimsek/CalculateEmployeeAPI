@@ -5981,11 +5981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deads\\Source\\Repos\\CalculateEmployeeAPI\\CalculateEmployeeAPI\\CalculateEmployeeAPI.csproj",
+      "projectUniqueName": "C:\\Users\\deads\\Downloads\\CalculateEmployeeAPI-main\\CalculateEmployeeAPI-main\\CalculateEmployeeAPI\\CalculateEmployeeAPI.csproj",
       "projectName": "CalculateEmployeeAPI",
-      "projectPath": "C:\\Users\\deads\\Source\\Repos\\CalculateEmployeeAPI\\CalculateEmployeeAPI\\CalculateEmployeeAPI.csproj",
+      "projectPath": "C:\\Users\\deads\\Downloads\\CalculateEmployeeAPI-main\\CalculateEmployeeAPI-main\\CalculateEmployeeAPI\\CalculateEmployeeAPI.csproj",
       "packagesPath": "C:\\Users\\deads\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deads\\Source\\Repos\\CalculateEmployeeAPI\\CalculateEmployeeAPI\\obj\\",
+      "outputPath": "C:\\Users\\deads\\Downloads\\CalculateEmployeeAPI-main\\CalculateEmployeeAPI-main\\CalculateEmployeeAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

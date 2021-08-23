@@ -7,7 +7,7 @@ namespace CalculateEmployeeAPI.Entities
 {
     public class FullTimeEpmloyee:BaseEmployee
     {
-        
+
         public override decimal MaasHesapla()
         {
             return Sallary;
