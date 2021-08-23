@@ -12,11 +12,8 @@ namespace CalculateEmployeeAPI.Entities
         public int Id { get; set; }
         public string IdentityNumber { get; set; }
         public string Name { get; set; }
-       
-        private decimal Sallary2;
-        public virtual decimal Sallary { get { return Sallary2; } set { Sallary2 = MaasHesapla(); } }
-        //public decimal Sallary { get; set; }
-        //public decimal Sallary { get; }
+        public string Surname { get; set; }
+        public decimal Sallary { get; set; }
         public abstract decimal MaasHesapla();
     }
 }
